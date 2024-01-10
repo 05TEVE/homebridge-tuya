@@ -23,7 +23,7 @@ const SwitchAccessory = require('./lib/SwitchAccessory');
 const ValveAccessory = require('./lib/ValveAccessory');
 const OilDiffuserAccessory = require('./lib/OilDiffuserAccessory');
 
-const PLUGIN_NAME = 'homebridge-tuya-lan-05TEVE';
+const PLUGIN_NAME = 'homebridge-tuya-05TEVE';
 const PLATFORM_NAME = 'TuyaLan05TEVE';
 
 const CLASS_DEF = {

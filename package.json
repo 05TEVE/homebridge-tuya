@@ -1,6 +1,8 @@
 {
   "name": "homebridge-tuya-05teve",
-  "version": "1.0.1",
+
+  "version": "1.0.2",
+
   "description": "🏠 Offical Homebridge plugin for TuyAPI - Fork of iRayanKhan's plugin to test publishing steps.",
   "main": "index.js",
   "scripts": {
